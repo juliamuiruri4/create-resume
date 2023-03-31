@@ -1,11 +1,10 @@
 # Template to Create a Resume Website Repository in your GitHub Account
-## Edit & Update files on vscode.dev
+
 <hr>
 
 ## Steps
 1. Click the green `Use Template Button` at the top of this repository. 
     That will create this repository in your GitHub Account with the same structure and files.
-![Use Template Screenshot](./img/use-this-template.png)
 
 1. With your repository open, click the `.` button on your keyboard and this will open the repository on vscode.dev _(VS Code on the browser_)
 1. Edit the `index.html` file to add your details
